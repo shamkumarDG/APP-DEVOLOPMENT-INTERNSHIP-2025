@@ -1,10 +1,10 @@
-# App Development Internship 2025 🚀
+# App Development Internship 2025 
 
 Welcome to the **App Development Internship 2025** repository. This repository houses all coursework, documentation, assignments, and Flutter application source code completed as part of the internship program.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 APP-DEVOLOPMENT-INTERNSHIP-2025/
