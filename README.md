@@ -28,7 +28,7 @@ APP-DEVOLOPMENT-INTERNSHIP-2025/
 
 ---
 
-## 📑 1. Internship Documentation & Reports (`internship-docs/`)
+##  1. Internship Documentation & Reports (`internship-docs/`)
 
 Contains documentation, daily progress reports, practical exams, and assignments completed during the program:
 - **Daily Progress & Notes**:
@@ -42,7 +42,7 @@ Contains documentation, daily progress reports, practical exams, and assignments
 
 ---
 
-## 📱 2. Student Connect / Weather Application (`weather-app/`)
+##  2. Student Connect / Weather Application (`weather-app/`)
 
 ### Project Overview
 **Student Connect** is a mobile utility application designed for students, offering daily weather forecasts, personal task management (CRUD), and an admin contact system.
@@ -51,18 +51,18 @@ Contains documentation, daily progress reports, practical exams, and assignments
 > This project was initially started around the end of 2nd semester in 1st year. Because the project was still work-in-progress back then, the original repository was removed. It has now been revived, organized, and integrated into this internship repository.
 
 ### Key Features
-- **🏠 Home Screen (`home_screen.dart`)**:
+- ** Home Screen (`home_screen.dart`)**:
   - Drawer navigation menu linking all app sections.
   - Modern green aesthetic using Google Fonts (`Poppins`).
-- **🌤️ Weather Screen (`weather_screen.dart`)**:
+- ** Weather Screen (`weather_screen.dart`)**:
   - Daily weather forecasts (Yesterday, Today, Tomorrow) with temperatures, conditions, and icons.
-- **📝 Tasks Screen (`tasks_screen.dart`)**:
+- ** Tasks Screen (`tasks_screen.dart`)**:
   - Full CRUD operations (Add, View, Toggle Completion, Delete).
   - Local persistence via `shared_preferences` so data persists across app restarts.
-- **📩 Contact Admin (`contact_admin.dart`)**:
+- ** Contact Admin (`contact_admin.dart`)**:
   - Form validation for Name, Email, Subject, and Message.
   - Smooth fade-in UI animations (`AnimationController`).
-- **ℹ️ About Screen (`about_screen (1).dart`)**:
+- ** About Screen (`about_screen (1).dart`)**:
   - Information about the application and its features.
 
 ### Tech Stack & Dependencies
@@ -73,7 +73,7 @@ Contains documentation, daily progress reports, practical exams, and assignments
 
 ---
 
-## 🛠️ How to Run the Flutter App
+##  How to Run the Flutter App
 
 1. Ensure the [Flutter SDK](https://docs.flutter.dev/get-started/install) is installed.
 2. Navigate to your Flutter project directory or place the `weather-app/` files into your project's `lib/` folder.
